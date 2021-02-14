@@ -4,7 +4,7 @@
 I've consolidated my blogs [here](https://linktr.ee/camilleweins)
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=camilleweins)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=camilleweins)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
