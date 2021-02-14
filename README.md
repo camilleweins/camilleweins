@@ -3,6 +3,11 @@
 #####
 I've consolidated my blogs [here](https://linktr.ee/camilleweins)
 
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=camilleweins)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **camilleweins/camilleweins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
