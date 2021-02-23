@@ -14,7 +14,7 @@ I'm a recent graduate of NYU Tisch's Interactive Telecommunications Program, in 
 
 <hr>
 
-<img src="https://res.cloudinary.com/dqt5wwjvu/image/upload/v1614121359/logos/nescius-min.gif">
+<img src="https://res.cloudinary.com/dqt5wwjvu/image/upload/h_250/v1614121359/logos/nescius-min.gif">
 My favorite project involves visualizing words that have undergone semantic change. 
 
 <hr>
