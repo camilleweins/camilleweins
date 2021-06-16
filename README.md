@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camilleweins&label=Profile%20views&color=0e75b6&style=flat" alt="camilleweins" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=camilleweins" alt="camilleweins" /></a> </p>
-
 - 🔭 I’m currently working on **A new take on logging/measuring food intake (TBD!)**
 
 - 👯 I’m looking to collaborate on **Anything**
